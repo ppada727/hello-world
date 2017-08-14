@@ -1,6 +1,6 @@
 # hello-world
-just another repository
 
-Hello Humans!
+this is second pratice.
+
 I'm Daisy Park.
-I like to do some trips.
+I like to do a lot of trips.
